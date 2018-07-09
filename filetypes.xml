@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="PancakeSort" type="PLAIN_TEXT" />
       <mapping pattern="Pivot Index" type="PLAIN_TEXT" />
+      <mapping pattern="ShiftedArraySearch" type="PLAIN_TEXT" />
       <mapping pattern="K-Messed Array Sort" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
